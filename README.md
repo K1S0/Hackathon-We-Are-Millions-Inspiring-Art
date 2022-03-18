@@ -6,8 +6,8 @@ The Internet was conceived as a network of interconnected networks in which any 
 Through this 18 seconds animated gif, I wanted to illustrate this structural evolution of our Internet network over the last 30 years.
 
 -> Art on Fairdrive : c60115bd994e9097f91a82bb429a173c9e17bf2ab1b5cb715efa812f5ac266361647562906 <br>
--> On Fairdrop : https://gateway.fairdatasociety.org/bzz/4ce0ab29d3f141ef69671448be339e94c1a05f485f56fd749ee5d702303109e2 <br>
--> On Swarm Gateway : https://gateway.ethswarm.org/access/e52637184a96c94f7a67ed82de0aff03103503d01809a79bceb32f9c7945824c
+https://gateway.fairdatasociety.org/bzz/4ce0ab29d3f141ef69671448be339e94c1a05f485f56fd749ee5d702303109e2 <br>
+https://gateway.ethswarm.org/access/e52637184a96c94f7a67ed82de0aff03103503d01809a79bceb32f9c7945824c
   
 <i>Open Source Licence : MIT License.</i>
  
