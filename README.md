@@ -4,10 +4,10 @@
 The Internet was conceived as a network of interconnected networks in which any node of the network can communicate with all the others. However, with Web 1.0 <i>(red)</i>, we have observed an ultra-centralization of the Internet in terms of its infrastructure, its services and its information. With the Web 2.0 <i>(blue)</i>, we have observed the centralization of information and services by Internet giants such as Google, Facebook that own data processing servers, the architecture of this network is characterized by the presence of data centralization poles. There is hope, with the birth of Web 3.0 <i>(green)</i>, with the advent of blockchains and their networks of nodes, the architecture of Web 3.0 tends to become entirely decentralized or even incensurable and concerned with the preservation of the privacy of its users who wish it. 
 
 Through this 18 seconds animated gif, I wanted to illustrate this structural evolution of our Internet network over the last 30 years.
-  
-- Art on Fairdrive : c60115bd994e9097f91a82bb429a173c9e17bf2ab1b5cb715efa812f5ac266361647562906
-- On Fairdrop : https://gateway.fairdatasociety.org/bzz/4ce0ab29d3f141ef69671448be339e94c1a05f485f56fd749ee5d702303109e2
-- On Swarm Gateway : https://gateway.ethswarm.org/access/e52637184a96c94f7a67ed82de0aff03103503d01809a79bceb32f9c7945824c
+
+-> Art on Fairdrive : c60115bd994e9097f91a82bb429a173c9e17bf2ab1b5cb715efa812f5ac266361647562906 <br>
+-> On Fairdrop : https://gateway.fairdatasociety.org/bzz/4ce0ab29d3f141ef69671448be339e94c1a05f485f56fd749ee5d702303109e2 <br>
+-> On Swarm Gateway : https://gateway.ethswarm.org/access/e52637184a96c94f7a67ed82de0aff03103503d01809a79bceb32f9c7945824c
   
 <i>Open Source Licence : MIT License.</i>
  
